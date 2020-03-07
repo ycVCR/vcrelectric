@@ -1,5 +1,5 @@
 ---
 deployment:
- tasks:
- - export DEPLOYPATH=/home3/vcrelec1/repositories/vcrelectric/
- - /bin/cp * $DEPLOY PATH
+  tasks:
+    - export DEPLOYPATH=/home3/vcrelec1/public_html/
+    - /bin/cp -R images $DEPLOYPATH
