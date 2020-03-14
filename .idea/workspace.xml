@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7a5244b-5c9a-4139-97cc-7e51b07e3cde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.cpanel.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.cpanel.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/creative.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/creative.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/screwdriver.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/screwdriver.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_masthead.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583559433011</updated>
       <workItem from="1583559435140" duration="1076000" />
+      <workItem from="1584203707380" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="Took out the V3">
       <created>1583559484790</created>
@@ -71,5 +74,9 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="267" y="23" key="CommitChangelistDialog2/-2560.-15.2560.1417/0.23.1440.797@0.23.1440.797" timestamp="1583559484437" />
+    <state x="742" y="498" key="com.intellij.ide.util.TipDialog" timestamp="1584203707429">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="742" y="498" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584203707429" />
   </component>
 </project>
