@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7a5244b-5c9a-4139-97cc-7e51b07e3cde" name="Default Changelist" comment="">
+    <list default="true" id="f7a5244b-5c9a-4139-97cc-7e51b07e3cde" name="Default Changelist" comment="added 0. in front of text-white-50 opacity">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -57,7 +57,7 @@
       <updated>1583559433011</updated>
       <workItem from="1583559435140" duration="1076000" />
       <workItem from="1584203707380" duration="50000" />
-      <workItem from="1584204450774" duration="4555000" />
+      <workItem from="1584204450774" duration="4699000" />
     </task>
     <task id="LOCAL-00001" summary="Took out the V3">
       <created>1583559484790</created>
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584208080995</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added 0. in front of text-white-50 opacity">
+      <created>1584209035314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584209035314</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,11 +92,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="added 0. in front of text-white-50 opacity" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="475" y="0" key="CommitChangelistDialog2" timestamp="1584208080221">
+    <state x="475" y="0" key="CommitChangelistDialog2" timestamp="1584209080512">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="267" y="23" key="CommitChangelistDialog2/-2560.-15.2560.1417/0.23.1440.797@0.23.1440.797" timestamp="1583559484437" />
-    <state x="475" y="0" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1584208080221" />
+    <state x="475" y="0" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1584209080512" />
     <state x="742" y="498" key="com.intellij.ide.util.TipDialog" timestamp="1584204450309">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
