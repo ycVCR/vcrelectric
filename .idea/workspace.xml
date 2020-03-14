@@ -57,7 +57,8 @@
       <updated>1583559433011</updated>
       <workItem from="1583559435140" duration="1076000" />
       <workItem from="1584203707380" duration="50000" />
-      <workItem from="1584204450774" duration="4699000" />
+      <workItem from="1584204450774" duration="5109000" />
+      <workItem from="1584209999341" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="Took out the V3">
       <created>1583559484790</created>
@@ -97,9 +98,9 @@
     </state>
     <state x="267" y="23" key="CommitChangelistDialog2/-2560.-15.2560.1417/0.23.1440.797@0.23.1440.797" timestamp="1583559484437" />
     <state x="475" y="0" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1584209080512" />
-    <state x="742" y="498" key="com.intellij.ide.util.TipDialog" timestamp="1584204450309">
+    <state x="742" y="498" key="com.intellij.ide.util.TipDialog" timestamp="1584209998569">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="742" y="498" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584204450309" />
+    <state x="742" y="498" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584209998569" />
   </component>
 </project>
