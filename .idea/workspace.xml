@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7a5244b-5c9a-4139-97cc-7e51b07e3cde" name="Default Changelist" comment="added 0. in front of text-white-50 opacity">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,7 @@
       <workItem from="1584204450774" duration="5109000" />
       <workItem from="1584209999341" duration="5892000" />
       <workItem from="1584225812602" duration="16000" />
-      <workItem from="1584283234081" duration="236000" />
+      <workItem from="1584283234081" duration="855000" />
     </task>
     <task id="LOCAL-00001" summary="Took out the V3">
       <created>1583559484790</created>
